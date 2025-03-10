@@ -1,5 +1,7 @@
 # AlexNet Implementation in PyTorch
 
+![AlexNet ](alexnet.png)
+
 ## Key characteristics of this AlexNet implementation:
 
 ### 1. **Architecture**:
