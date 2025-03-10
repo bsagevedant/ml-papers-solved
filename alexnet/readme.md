@@ -1,6 +1,6 @@
 # AlexNet Implementation in PyTorch
 
-![AlexNet ](/alexnet.png)
+![AlexNet ](/img/alexnet.png)
 
 ## Key characteristics of this AlexNet implementation:
 
