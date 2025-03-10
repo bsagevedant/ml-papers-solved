@@ -23,5 +23,5 @@
 - 96 filters in the first layer (originally split across 2 GPUs)
 - Final output of 1000 classes for ImageNet
 
-![notebook ](https://colab.research.google.com/drive/1v-DRh_MX2xHb4ePzciJbbZ0eVbNW2iQJ?usp=sharing  )
+ https://colab.research.google.com/drive/1v-DRh_MX2xHb4ePzciJbbZ0eVbNW2iQJ?usp=sharing
 
